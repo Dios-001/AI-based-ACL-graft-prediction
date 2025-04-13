@@ -13,4 +13,6 @@ The anterior cruciate ligament (ACL) is a ligament in the knee that connects the
 ## Setup:
 
 1. Create an virtual python enviroment (i'm using python 3.12.8)
-   `python -m venv Acl-predictor`
+   ```
+   python -m venv Acl-predictor
+   ```
