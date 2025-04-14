@@ -22,7 +22,6 @@ The anterior cruciate ligament (ACL) is a ligament in the knee that connects the
 3. load the [KneeMRIdataset](https://www.kaggle.com/datasets/sohaibanwaar1203/kneemridataset/code) in the folder. (im using cURl but alternate like kagglehub can be used too.)
 
 ```
-#!/bin/bash
 curl -L -o ~/Downloads/kneemridataset.zip\
   https://www.kaggle.com/api/v1/datasets/download/sohaibanwaar1203/kneemridataset
 ```
