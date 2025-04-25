@@ -4,3 +4,6 @@ include/
 lib/
 share/
 *.cfg
+
+datasets/
+MosMedData/
